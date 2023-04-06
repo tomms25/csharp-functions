@@ -3,6 +3,8 @@ Console.WriteLine("Hello, World!");
 
 //void StampaArray(int[] array): che preso un array di numeri interi, stampa a video il contenuto dell’array in questa forma “[elemento 1, elemento 2, elemento 3, ...]“. Potete prendere quella fatta in classe questa mattina
 
+int[] nums = { 2, 6, 7, 5, 3, 9 };
+
 void StampaArray(int[] array)
 {
     var result = "[";
@@ -63,20 +65,6 @@ int sommaElementiArray(int[] array)
 }
 
 
-//Una volta completate queste funzioni di utilità di base, e dato il seguente array di numeri [2, 6, 7, 5, 3, 9] già dichiarato nel vostro codice, si vogliono utilizzare le funzioni per:
 
 int[] nums = { 2, 6, 7, 5, 3, 9 };
 
-//Stampare l’array di numeri fornito a video
-
-
-
-//Stampare l’array di numeri fornito a video, dove ogni numero è stato prima elevato al quadrato (Verificare che l’array originale non sia stato modificato quindi ristampare nuovamente l’array originale e verificare che sia rimasto [2, 6, 7, 5, 3, 9])
-
-
-//Stampare la somma di tutti i numeri
-
-
-
-
-//Stampare la somma di tutti i numeri elevati al quadrati
